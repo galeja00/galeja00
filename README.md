@@ -21,7 +21,7 @@
 # 📊 GitHub Stats:
 <div style="display: flex; height: 15rem; width: full; position: relative; justify-content: center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=galeja00&theme=dark&hide_border=true" style="height: auto; width: 58%"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galeja00&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" style="height: auto;  width: 41%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galeja00&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" style="height: auto;  width: 42%">
 </div>
 
 ## 🏆 GitHub Trophies
